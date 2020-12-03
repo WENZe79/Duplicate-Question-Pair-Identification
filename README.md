@@ -3,6 +3,7 @@
 # Documentation on Duplicate Question Pair Identification Project
 
 `Author: YUAN Yan Zhe, yanzheyuan23@sina.com`
+`Author: WEN Ze, A1873527@163.com`
 
 ### Description of the Project
 
